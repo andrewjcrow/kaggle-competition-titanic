@@ -1,5 +1,11 @@
-#Project Specific Ignores
+# Project Specific Ignores
 start_jupyter_lab.bat
+
+# Env related ignores
+Scripts/
+etc/
+pyvenv.cfg
+share/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
