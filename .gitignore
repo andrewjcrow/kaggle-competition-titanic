@@ -1,3 +1,6 @@
+#Project Specific Ignores
+start_jupyter_lab.bat
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
